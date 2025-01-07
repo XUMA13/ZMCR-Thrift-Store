@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "name": "Frocks",
+    "category": "kidswear",
+    "description": "Stylish frocks for your little girl.",
+    "price": 299.99,
+    "oldPrice": 349.99,
+    "image": "https://images.unsplash.com/photo-1566454544259-f4b94c3d758c?q=80&w=1160&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "color": "red",
+    "rating": 4.5,
+    "author":"admin"
+  },
+  {
+    "id": 2,
+    "name": "Evening Gown",
+    "category": "dress",
+    "description": "Elegant evening gown for special occasions.",
+    "price": 6999.99,
+    "oldPrice": 7599.99,
+    "image": "https://images.unsplash.com/photo-1568251188392-ae32f898cb3b?q=80&w=2062&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "color": "black",
+    "rating": 4.0
+  },
+  {
+    "id": 3,
+    "name": "Saree",
+    "category": "dress",
+    "description": "Exquisite gold necklace with intricate design.",
+    "price": 3999.99,
+    "image": "https://images.unsplash.com/photo-1716504628105-bd76d91e85f2?q=80&w=1527&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "color": "gold",
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "name": "Jeans",
+    "category": "boyswear",
+    "description": "Durable and stylish jeans for every occasion.",
+    "price": 799.99,
+    "image": "https://plus.unsplash.com/premium_photo-1674828601362-afb73c907ebe?q=80&w=1506&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "color": "blue",
+    "rating": 4.2
+  },
+  {
+    "id": 5,
+    "name": "Silk Scarf",
+    "category": "seasonal",
+    "description": "Luxurious silk scarf with vibrant colors.",
+    "price": 249.99,
+    "oldPrice": 299.99,
+    "image": "https://images.unsplash.com/photo-1485527691629-8e370684924c?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "color": "grey",
+    "rating": 4.3
+  },
+  {
+    "id": 6,
+    "name": "Cocktail Dress",
+    "category": "dress",
+    "description": "Chic cocktail dress for parties and events.",
+    "price": 1999.99,
+    "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "color": "white",
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "name": "Suits",
+    "category": "boyswear",
+    "description": "Elevate your style with our premium suits—perfect for any formal occasion or professional setting",
+    "price": 7999.99,
+    "oldPrice": 8599.99,
+    "image": "https://images.unsplash.com/photo-1617332518648-5d7d2b85d203?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "color": "blue",
+    "rating": 4.8
+  },
+  {
+    "id": 8,
+    "name": "Sweater",
+    "category": "seasonal",
+    "description": "Stay cozy and stylish with our collection of warm and trendy sweaters!",
+    "price": 599.99,
+    "image": "https://plus.unsplash.com/premium_photo-1669688174637-92ff26cc0a9b?q=80&w=928&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "color": "beige",
+    "rating": 4.1
+  },
+  {
+    "id": 9,
+    "name": "T-shirt",
+    "category": "boyswear",
+    "description": "Find your perfect fit with our comfortable and stylish t-shirts for every day!",
+    "price": 499.99,
+    "image": "https://plus.unsplash.com/premium_photo-1690349404224-53f94f20df8f?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "color": "white",
+    "rating": 4.6
+  },
+  {
+    "id": 10,
+    "name": "Casual Pants",
+    "category": "dress",
+    "description": "Comfortable maxi dress for casual outings.",
+    "price": 399.99,
+    "oldPrice": 459.99,
+    "image": "https://plus.unsplash.com/premium_photo-1664298355914-bc65d2c9af64?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "color": "green",
+    "rating": 3
+  }
+]
