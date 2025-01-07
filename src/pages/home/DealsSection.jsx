@@ -1,47 +1,43 @@
 import React from 'react'
-import dealsImg from "../../assets/deals.png"
+import dealsImg from "../../assets/deals.jpg"
+import { Link } from 'react-router-dom'
 
 const DealsSection = () => {
   return (
     <section className='section__container deals__container'>
-        <div className='deals__image'>
-            <img src={dealsImg} alt=''/>
+      <div className='deals__image'>
+        <img src={dealsImg} alt=''/>
+      </div>
+
+      <div className='deals__content'>
+        <h5>Donate Now, Make a Difference</h5>
+        <h4>Donation</h4>
+        <p>Every piece of clothing tells a story—let it continue with someone who truly needs it.</p>
+
+        <div className='deals__countdown flex-wrap'>
+          {/* <div className='deals__countdown__card'>
+            <h4>Basic</h4>
+            <Link to="/rules">
+              <p>Rules</p>
+            </Link>
+          </div> */}
+          {/* <div className='deals__countdown__card'>
+            <h4>Address</h4>
+            <Link to="/location">
+              
+            </Link>
+          </div> */}
+          <div className='deals__countdown__card'>
+            
+            <a href="https://forms.gle/LoEwxZ9NVdT4JdjU6" target="_blank" rel="noopener noreferrer">
+              <button className='bg-primary-dark'>Donate Now</button>
+            </a>
+          </div>
         </div>
-
-        <div className='deals__content'>
-            <h5>
-                Get up to 20% discount
-            </h5>
-            <h4>
-                Deals Of This Month
-            </h4>
-            <p>
-                Discover the exquisite colothing, accessories and footware!
-            </p>
-
-            <div className='deals__countdown flex-wrap'>
-                <div className='deals__countdown__card'>
-                    <h4>14</h4>
-                    <p>Days</p>
-                </div>
-                <div className='deals__countdown__card'>
-                    <h4>20</h4>
-                    <p>Hours</p>
-                </div>
-                <div className='deals__countdown__card'>
-                    <h4>15</h4>
-                    <p>Mins</p>
-                </div>
-                <div className='deals__countdown__card'>
-                    <h4>5</h4>
-                    <p>Secs</p>
-                </div>
-
-            </div>
-
-        </div>
+      </div>
     </section>
-  )
+  );
 }
+
 
 export default DealsSection
