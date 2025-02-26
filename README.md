@@ -1,4 +1,4 @@
-````markdown
+
 # ZMCR Online Thrift Store
 
 ## Project Overview
